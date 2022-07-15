@@ -10,5 +10,8 @@ package ec.edu.intsuperior.controlador;
  * @author Santiago Solis
  */
 public class Controlador {
+    public void met1(){
+        
+    }
     
 }
